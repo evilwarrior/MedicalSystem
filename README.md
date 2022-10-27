@@ -1,2 +1,1 @@
 # MedicalSystem
-GraduationDesign
